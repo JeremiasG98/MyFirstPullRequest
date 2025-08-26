@@ -1,5 +1,5 @@
 Commit Inicial
-Modificacion 1 en el readme
-Modificacion 2 en el readme
-Modificacion 3 en el readme
-Modificacion 4 en el readme
+Modificación 1 en el readme
+Modificación 2 en el readme
+Modificación 3 en el readme
+Modificación 4 en el readme
